@@ -21,6 +21,7 @@ export default function MainLayout() {
             </nav>
         </header>
         <main>
+            <h1>Kuku</h1>
             <Paths/>
         </main>
     </>
